@@ -7,7 +7,7 @@ Hi 👋 My name is danial soltani
 Flutter Developer
 -----------------
 
-Hello I'm danial soltani .i tried different areas and interested in flutter
+Hello I'm danial soltani .I tried different programming areas and became interested in Flutter
 
 * 🌍  I'm based in IRAN
 * 🧠  I'm learning Flutter
